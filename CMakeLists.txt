@@ -7,3 +7,4 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 # One subfolder per project; add a line here when you start a new one.
 add_subdirectory(00-hello)
+add_subdirectory(01-memory)
